@@ -4,22 +4,22 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		double armut,elma,domates,muz,patlican,armutF,elmaF,domatesF,muzF,patlicanF,toplamF;
+	double armut,elma,domates,muz,patlican,armutF,elmaF,domatesF,muzF,patlicanF,toplamF;
         
-		Scanner inp=new Scanner(System.in);
-        System.out.print("Armut Kaç Kilo ? :");
+	Scanner inp=new Scanner(System.in);
+        System.out.print("Armut KaÃ§ Kilo ? :");
         armut=inp.nextDouble();
         
-        System.out.print("Elma Kaç Kilo ? :");
+        System.out.print("Elma KaÃ§ Kilo ? :");
         elma=inp.nextDouble();
         
-        System.out.print("Domates Kaç Kilo ? :");
+        System.out.print("Domates KaÃ§ Kilo ? :");
         domates=inp.nextDouble();
         
-        System.out.print("Muz Kaç Kilo ? :");
+        System.out.print("Muz KaÃ§ Kilo ? :");
         muz=inp.nextDouble();
         
-        System.out.print("Patlýcan Kaç Kilo ? :");
+        System.out.print("PatlÃ½can KaÃ§ Kilo ? :");
         patlican=inp.nextDouble();
         
         armutF= (armut*2.14);
