@@ -749,3 +749,8 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.texteditor.ITextEd
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.core.resources 2 2 2022-11-09 17:16:17.923
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-09 17:16:17.923
+!MESSAGE The project description file (.project) for 'Sınıfı-Gecme-Durumu' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
