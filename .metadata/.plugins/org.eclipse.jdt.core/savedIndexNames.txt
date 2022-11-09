@@ -1,5 +1,3 @@
 INDEX VERSION 1.131+C:\Users\lenovo\Desktop\JavaPratikler\.metadata\.plugins\org.eclipse.jdt.core
-1660406742.index
-1642175237.index
-4203406269.index
 4004373050.index
+1642175237.index
