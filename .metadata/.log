@@ -1434,3 +1434,8 @@ java.lang.Error: SWT Resource was not properly disposed
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-11 13:48:30.014
 !MESSAGE The project description file (.project) for 'Fibonacci Serisi' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 2 2022-11-11 14:20:48.098
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-11 14:20:48.098
+!MESSAGE The project description file (.project) for 'Fibonacci Serisi' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
