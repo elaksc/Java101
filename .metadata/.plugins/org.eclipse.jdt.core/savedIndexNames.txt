@@ -13,12 +13,10 @@ INDEX VERSION 1.131+C:\Users\lenovo\Desktop\JavaPratikler\.metadata\.plugins\org
 1387455045.index
 2211649636.index
 1250201594.index
-736514110.index
 2270364768.index
 3902725752.index
 3444246899.index
 3934417819.index
-2045342717.index
 3036185437.index
 172652476.index
 1353253590.index

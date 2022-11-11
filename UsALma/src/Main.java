@@ -17,5 +17,6 @@ public class Main {
 		for(int i = 1; i<=us; i++) {
 			toplam *= sayi;
 		}
+		 System.out.println("Sonuç: "+toplam);
 	}
 }
